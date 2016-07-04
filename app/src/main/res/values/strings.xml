@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Мустаев Ринат</string>
+    <string name="infoStrokCoda">Написано строк кода</string>
+    <string name="infoProectov">Проектов</string>
 </resources>

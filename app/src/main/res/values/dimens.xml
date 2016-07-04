@@ -18,7 +18,18 @@
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
     <dimen name="size_big_72">72dp</dimen>
-    <dimen name="spacing_larger_104">104dp</dimen>
+    <dimen name="spacing_larger_112">112dp</dimen>
     <dimen name="line_size">1dp</dimen>
+
+    <!--Text-->
+
+    <dimen name="text_small_8">8sp</dimen>
+    <dimen name="text_normal_16">16sp</dimen>
+    <dimen name="text_medial_24">24sp</dimen>
+    <dimen name="text_medium_32">32sp</dimen>
+    <dimen name="text_large_56">56sp</dimen>
+    <dimen name="text_larger_72">7sp</dimen>
+    <dimen name="profile_image_size">256dp</dimen>
+    <dimen name="fab_right_space">8dp</dimen>
 
 </resources>
