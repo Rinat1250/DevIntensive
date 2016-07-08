@@ -2,4 +2,10 @@
     <string name="app_name">Мустаев Ринат</string>
     <string name="infoStrokCoda">Написано строк кода</string>
     <string name="infoProectov">Проектов</string>
+    <string name="user_profile.placeholder.image">Изменить фотографию профиля</string>
+    <string name="user_profile_dialog.gallery">Загрузить из галлереи</string>
+    <string name="user_profile.dialog.camera">Сделать снимок</string>
+    <string name="user_profile.dialog.cancel">Отмена</string>
+    <string name="user_profile.dialog.title">Изменить фотографию профиля</string>
+    <string name="user_profile.chose.message">выберите фото</string>
 </resources>
